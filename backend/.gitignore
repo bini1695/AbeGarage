@@ -1,0 +1,12 @@
+/node_modules
+.env
+.env.production
+port=5000
+# database connection details
+DB_PASS=87654321
+DB_USER=garageapp
+DB_NAME=garageapp
+DB_HOST=localhost
+DB_SOCKET=/tmp/mysql.sock
+
+
